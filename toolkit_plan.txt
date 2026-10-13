@@ -1,0 +1,60 @@
+
+PERSONAL MINI-TOOLKIT PLAN
+
+Project Name: Personal Mini-Toolkit
+
+TOOLS
+
+1. Simple Calculator
+This tool asks the user for two numbers and an operation, then displays the result.
+
+2. To-Do List Manager
+This tool allows the user to add, view, and remove tasks using a Python list.
+
+3. Even-or-Odd Checker
+This tool asks the user for a whole number and determines whether it is even or odd.
+
+MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+1. Simple Calculator
+2. To-Do List Manager
+3. Even-or-Odd Checker
+4. Quit
+
+Enter your choice (1-4):
+
+PYTHON CONCEPTS
+
+Simple Calculator:
+- Variables
+- Input and output
+- Type conversion
+- Conditionals
+- F-strings
+- Error handling
+
+To-Do List Manager:
+- Lists
+- append() and pop()
+- While loops
+- For loops
+- Conditionals
+- F-strings
+
+Even-or-Odd Checker:
+- Variables
+- Input and output
+- int() conversion
+- Modulo operator (%)
+- Conditionals
+- F-strings
+
+Main Menu:
+- While loop
+- If, elif, and else
+- Input and output
+- Comments
+- Friendly messages
